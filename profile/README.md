@@ -1,10 +1,10 @@
-# Another Machine
+# a(nother) machine
 
 [amplib.tech](https://amplib.tech)
 
-At some point we forgot how simple the web can be.
+_At some point we forgot how simple the web can be._
 
-a(nother) machine embraces constraints to make tools that make a more expressive web.
+We embrace constraints to make tools that make a more expressive web.
 
 We pursue inventive and alternative uses of web technology.
 
