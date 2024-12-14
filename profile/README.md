@@ -1,6 +1,6 @@
 # a(nother) machine
 
-[amplib.tech](https://amplib.tech)
+[anothermachine.info](https://www.anothermachine.info) • [amplib.app](https://www.amplib.app) 
 
 _At some point we forgot how simple the web can be._
 
