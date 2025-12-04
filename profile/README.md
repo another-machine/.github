@@ -1,4 +1,4 @@
-# a(nother) machine
+# another machine
 
 [anothermachine.info](https://anothermachine.info) • [amplib.app](https://www.amplib.app) 
 
