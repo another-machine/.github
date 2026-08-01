@@ -4,7 +4,7 @@
 
 _At some point we forgot how simple the web can be._
 
-We embraces constraints to make tools for an expressive web.
+We embrace constraints to make tools for an expressive web.
 
 We pursue inventive and alternative uses of web technology.
 
